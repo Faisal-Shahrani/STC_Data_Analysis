@@ -4,7 +4,7 @@
 ## This [Certification](Image/Cetification_STC.pdf) of Virtual Work Experiences with STC from [Misk](https://hub.misk.org.sa/programs/skills/virtual-work-experience-data-analysis-at-stc/)
 
 
-![badge](Stc.png = 80*50) 
+![badge](Stc.png) {width=200px;}
 
 
 #### Tasks 📩:
