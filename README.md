@@ -4,8 +4,7 @@
 ## This [Certification](Image/Cetification_STC.pdf) of Virtual Work Experiences with STC from [Misk](https://hub.misk.org.sa/programs/skills/virtual-work-experience-data-analysis-at-stc/)
 
 
-![badge](Stc.png)
-
+![badge](<Image/STC badge.png>)
 
 #### Tasks 📩:
 -  I 've worked on ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
