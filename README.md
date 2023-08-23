@@ -4,7 +4,7 @@
 ## This [Certification](Image/Cetification_STC.pdf) of Virtual Work Experiences with STC from [Misk](https://hub.misk.org.sa/programs/skills/virtual-work-experience-data-analysis-at-stc/)
 
 
-![badge](Stc.png) {width=200px;}
+![badge](Stc.png)
 
 
 #### Tasks 📩:
@@ -12,3 +12,5 @@
 - [analysis and visualize the data](<Task 1>)
 -  bulding model [time predction](<task 2>) 
 - Bulding model for [recommended system](<Task 3>) for users behavior.
+
+
